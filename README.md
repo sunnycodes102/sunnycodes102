@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 <!--
 **sunnycodes102/sunnycodes102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,29 +42,29 @@ Always looking to **level up**, **team up**, and **bring ideas to life** through
 
 ---
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 - 🎮 **Unity Mini-Game** → *(coming soon)* A polished small-scale game with clean architecture  
 - 🕶️ **Unreal AR Demo** → *(coming soon)* Experimenting with AR/VR using Unreal Engine  
 - 📱 **Mobile Utility App** → *(coming soon)* Cross-platform mobile application  
 
 > 👉 I’ll be publishing new projects regularly as part of my **30-Day Growth Plan**.  
 
----
+--- !>
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnycode&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnycode&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnycodes102&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnycodes102&layout=compact&theme=tokyonight)  
 
----
+<! ---
 
 ## 🗓️ Current Focus
 Check out my **[30-Day GitHub Growth Plan](#)** (learning, building, collaborating, and sharing progress).  
-
+-- !>
 ---
 
-## 🌐 Connect
+<!-- ## 🌐 Connect
 - Portfolio: *(coming soon)*  
-- LinkedIn: [linkedin.com/in/sunnycode](#)  
-- Twitter/X: [@sunnycode](#)  
+- LinkedIn: [linkedin.com/in/sunnycodes102](#)  
+- Twitter/X: [@sunnycodes102](#)  
 
----
+--- !>
