@@ -42,6 +42,10 @@ Always looking to **level up**, **team up**, and **bring ideas to life** through
 
 ---
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnycodes102&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnycodes102&layout=compact&theme=tokyonight)  
+
 <!--## 📂 Featured Projects
 - 🎮 **Unity Mini-Game** → *(coming soon)* A polished small-scale game with clean architecture  
 - 🕶️ **Unreal AR Demo** → *(coming soon)* Experimenting with AR/VR using Unreal Engine  
@@ -50,10 +54,6 @@ Always looking to **level up**, **team up**, and **bring ideas to life** through
 > 👉 I’ll be publishing new projects regularly as part of my **30-Day Growth Plan**.  
 
 --- !>
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnycodes102&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnycodes102&layout=compact&theme=tokyonight)  
 
 <! ---
 
